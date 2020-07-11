@@ -8,5 +8,8 @@ Junit-4.13.jar
 Hamcrest-all-1-3.jar
 
 ### Steps to install and run
-Open command line and clone the project
-git clone 
+1 Open command line and clone the project
+- git clone https://github.com/ishankhaneja/JavaChallenge.git
+2 cd JavaChallenge
+3 
+
