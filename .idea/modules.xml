@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/JavaChallenge.iml" filepath="$PROJECT_DIR$/.idea/JavaChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaChallenge.iml" filepath="$PROJECT_DIR$/JavaChallenge.iml" />
     </modules>
   </component>
 </project>
