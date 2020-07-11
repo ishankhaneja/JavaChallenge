@@ -13,4 +13,4 @@ Hamcrest-all-1-3.jar
 - cd JavaChallenge
 - Open the project in your Ide
 - Navigate to src/VerifySum.java
-
+- Run the Junit test method "verifyList"
